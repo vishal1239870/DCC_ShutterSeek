@@ -15,7 +15,7 @@ A Django web application to search and display images using the Unsplash API. Us
 ## Installation & Setup
 
 1. Clone this repository:
- 
+   git clone https://github.com/vishal1239870/DCC_ShutterSeek
 
 2. Install dependencies:
    pip install -r requirements.txt
